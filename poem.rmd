@@ -1,7 +1,7 @@
 ---
 title: "git_01"
-author: "Math_116"
-date: "Fall semester"
+author: "Math_115"
+date: "Summer semester"
 output: html_document
 ---
 
@@ -15,6 +15,11 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+A short direction   
+To avoid dejection,   
+By variations   
+In occupations,   
+And prolongation  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
